@@ -1,7 +1,3 @@
-# lime
+# Hello OpenWhisk Users
 
-a little edit :)
-
-another one!
-
-another one for the demo, as you know: We're working hard :)
+We are going to create a file, and then delete it, in order to exercise our Github webhook rule.
